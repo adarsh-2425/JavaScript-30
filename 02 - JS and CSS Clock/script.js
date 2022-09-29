@@ -17,5 +17,6 @@ function setDate(){
     hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
 }
 
-//setInterval used to run a function every specific intervel
+//setInterval used to run a 
+//function every specific intervel
 setInterval(setDate, 1000)
